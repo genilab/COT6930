@@ -5,11 +5,8 @@
 [Syllabus](xxx)
 
 
-## Experiments
-
-
 ## Datasets
 
 | File | Experiment | Description | 
-| ------------- | ------------- |
-| [FAU Regulations](./datasets/FAU_regulations.zip) |  PDF files from [FAU University Regulations](https://www.fau.edu/regulations/).|
+| ------------- | ------------- | ------------- |
+| [FAU Regulations](./datasets/FAU_regulations.zip) |  RAG | PDF files from [FAU University Regulations](https://www.fau.edu/regulations/).|
