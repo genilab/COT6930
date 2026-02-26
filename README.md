@@ -7,4 +7,4 @@
 
 ## Datasets
 
-*  [FAU Regulations](./datasets/FAU_Regulaations.zip) -- PDF files from [FAU University Regulations](https://www.fau.edu/regulations/).|
+*  [FAU Regulations](./datasets/FAU_Regulaations.zip) -- PDF files from [FAU University Regulations](https://www.fau.edu/regulations/)
