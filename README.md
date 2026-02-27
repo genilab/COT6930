@@ -12,6 +12,15 @@ https://generativeintelligencelab.ai/education.html
 * [CEN4010 - Principles of Software Engineering in the Era of Generative Intelligence](https://fau.simplesyllabus.com/doc/yolipf0x2/Spring-2025-1-Full-Term-CEN-4010-001-Prin-Software-Engineering?mode=view)
 * [CAP4623 - Trustworthy Artificial Intelligence](https://fau.simplesyllabus.com/en-US/doc/h6c9776hw/Fall-2024-1-Full-Term-CAP-4623-001-?mode=view)
 
+## Numeric Datasets
+
+[Call for Datasets](https://forms.gle/DUz2ZEiRQjRLb58y8)
+
 ## Document Datasets
 
+[Call for Datasets](https://forms.gle/DUz2ZEiRQjRLb58y8)
+
 *  **FAU Regulations** -- Documents from [FAU University Regulations](https://www.fau.edu/regulations/) web site. [(small)](./datasets/FAU_Regulations(small).zip)  [(medium)](./datasets/FAU_Regulations(medium).zip) [(complete)](./datasets/FAU_Regulations(complete).zip)
+
+
+
